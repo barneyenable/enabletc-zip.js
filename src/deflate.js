@@ -2055,5 +2055,5 @@ module.exports = function(zip) {
   }
 
   // 'zip' may not be defined in z-worker and some tests
-  zip.Deflater = zip._jzlib_Deflater = Deflater;
+  zip.Deflater = Deflater;
 };

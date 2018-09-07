@@ -2150,5 +2150,5 @@ module.exports = function(zip) {
   }
 
   // 'zip' may not be defined in z-worker and some tests
-  zip.Inflater = zip._jzlib_Inflater = Inflater;
-}
+  zip.Inflater = Inflater;
+};
