@@ -1,0 +1,11 @@
+{
+  "name": "@enabletc/zip",
+  "version": "0.0.0",
+  "description": "-",
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "readme": "-",
+  "_napaResolved": "git@bitbucket.org:lukaroski/enabletc-zip.js.git"
+}
